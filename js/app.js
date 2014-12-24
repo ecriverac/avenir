@@ -22,6 +22,10 @@ avenirApp.config(['$routeProvider',
         templateUrl: 'views/contactenos.html',
         controller: 'ContactenosCtrl'
       }).
+      when('/404/', {
+        templateUrl: 'views/404.html',
+        controller: '404Ctrl'
+      }).
       otherwise({
         redirectTo: '/404'
       });
