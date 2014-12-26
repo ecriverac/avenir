@@ -1,9 +1,107 @@
 /*Template base */
 .navbar{
-	background-color: red;
+	background-color: #369fd6;
 }
+.logo img{	
+	width: 360px;
+	height: 143px;
+	position: absolute;
+}
+.navbar-header .logo .nav-ave{
+	margin-left: 67px;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+}
+.nav-2{
+	margin-left: 327px;
+}
+.nav-2 li:hover{
+	background-color: #1d6c95;
+}
+.nav-2 a{
+	font-size: 12px;
+	font-family: 'open_sansregular';
+	font-weight: bold;
+	color: #fff!important;
+	padding: 15px 25px !important;
+}
+.navbar-right a{
+	padding-top:0;
+	padding-bottom: 0; 
+	margin-top: 12px;
+}
+.fb-img a{background-image: url(../img/face.png);background-repeat: no-repeat;}
+.fb-img a:hover{background-image: url(../img/face-hover.png);background-repeat: no-repeat;
+}
+.yt-img a{background-image: url(../img/you-tube.png);background-repeat: no-repeat;}
+.yt-img a:hover{background-image: url(../img/you-tube-hover.png);background-repeat: no-repeat;}
+.nav-ave img{width: auto;height: auto;top: 0;} 
 
+a{font-family: 'open_sanssemibold';}
 
+.navbar>li>#quienes-somos{
+	background: #1d6c95;
+	padding: 0 5px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover{
+	background: #1d6c95;
+}
+/*Home*/
+
+/*Quienes somo*//*Template base */
+.navbar{
+	background-color: #369fd6;
+}
+.logo img{	
+	width: 360px;
+	height: 143px;
+	position: absolute;
+}
+.navbar-header .logo .nav-ave{
+	margin-left: 67px;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+}
+.nav-2{
+	margin-left: 327px;
+}
+.nav-2 li:hover{
+	background: #1d6c95 !important;
+}
+.nav-2 li a{
+	font-size: 12px;
+	font-family: 'open_sansregular';
+	font-weight: bold;
+	color: #fff!important;
+	padding: 15px 25px !important;
+}
+.navbar-right a{
+	padding-top:0;
+	padding-bottom: 0; 
+	margin-top: 12px;
+}
+.fb-img a{background-image: url(../img/face.png);background-repeat: no-repeat;}
+.fb-img a:hover{background-image: url(../img/face-hover.png);background-repeat: no-repeat;
+}
+.yt-img a{background-image: url(../img/you-tube.png);background-repeat: no-repeat;}
+.yt-img a:hover{background-image: url(../img/you-tube-hover.png);background-repeat: no-repeat;}
+.nav-ave img{width: auto;height: auto;top: 0;} 
+
+a{font-family: 'open_sanssemibold';}
+
+.navbar>li>#quienes-somos{
+	background: #1d6c95;
+	padding: 0 5px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover{
+	background: #1d6c95;
+}
+.navbar-default .navbar-nav > .active > a:focus{background: #1d6c95;}
+.open a:focus{background: #1d6c95!important;}
+.dropdown-menu{background: #1d6c95!important;}
+.dropdown-menu > li > a:hover{background-color: #0C4F73;}
 /*Home*/
 
 /*Quienes somo*/
