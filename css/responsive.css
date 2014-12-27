@@ -1,0 +1,32 @@
+/*resonsive */
+
+
+@media (min-width: 320px){
+	.logo img{
+		width: 200px;
+		height: 86px;
+	}	
+	.nav-ave img{	
+	width: 100px;
+	height: auto;
+	}
+	.navbar-header .logo .nav-ave {
+	margin-left: 32px;
+	}
+}
+
+@media (min-width: 768px){
+	.navbar-header .logo .nav-ave {
+	margin-left: 67px;
+	}
+	.logo img {
+	width: 360px;
+	height: 143px;
+	}
+	.nav-ave img {
+	width: auto;
+	height: auto;
+	top: 0;
+	}
+
+}

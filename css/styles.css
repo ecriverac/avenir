@@ -102,6 +102,11 @@ a{font-family: 'open_sanssemibold';}
 .open a:focus{background: #1d6c95!important;}
 .dropdown-menu{background: #1d6c95!important;}
 .dropdown-menu > li > a:hover{background-color: #0C4F73;}
+
+
 /*Home*/
+.bxslider img{
+	width: 100%;
+}
 
 /*Quienes somo*/
