@@ -397,5 +397,7 @@ margin-bottom: 30px;
 /*------------------------*/
 /*-----INTERIOR BASE-------*/
 /*------------------------*/
-.pos_interior{margin-top: -20px;}
-
+.popup_bg{background-color: rgba(0,0,0,0.7);left: 0;height: 100%;position: fixed;top: 0;width: 100%;z-index: 9999;}
+.display-none{display: none;}
+.bg_popup{background-color: #fff;position: fixed;z-index: 99999;height: 350px;left: 50%;margin-left: -300px;margin-top: -175px;top: 50%;width: 600px;}
+.bg_popup .close_popup{background-color: #000;color: #fff;cursor: pointer;float: right;margin-top: -36px;padding: 8px 12px;}
