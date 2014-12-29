@@ -39,7 +39,7 @@
 .nav-ave img{width: auto;height: auto;top: 0;} 
 
 a{font-family: 'open_sanssemibold';}
-
+.navbar-default{border: none;}
 .navbar>li>#quienes-somos{
 	background: #1d6c95;
 	padding: 0 5px;
@@ -51,6 +51,7 @@ a{font-family: 'open_sanssemibold';}
 	background-color: #369fd6;
 	position: fixed;
 	width: 100%;
+	border-radius: 0px;
 }
 .logo img{	
 	width: 360px;
@@ -320,6 +321,7 @@ button:hover{
 	background-image: url(../img/home/project5-hover.png);height: 679px;}
 .sinpa{
 
+
 	padding-left: 0;
 	padding-right: 0;
 }
@@ -388,3 +390,12 @@ margin-bottom: 30px;
 }
 .form-control{color: #CFCDCD;}
 /*Quienes somo*/
+
+/*Quienes somo*/
+
+
+/*------------------------*/
+/*-----INTERIOR BASE-------*/
+/*------------------------*/
+.pos_interior{margin-top: -20px;}
+
