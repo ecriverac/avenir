@@ -54,7 +54,7 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 .ubicanos_formulario .block_2 {padding-top: 25px;}
 .ubicanos_formulario .block_2 .btn{border-radius: 0px;border: 1px solid #fff;color: #fff;margin: 10px auto;padding: 10px 12px;width: 80%;}
 .ubicanos_formulario .block_3{border-left: 1px solid #8cc3e0;font-family:open_sansregular;height: 269px;padding-top: 25px;}
-.ubicanos_formulario .block_3 .img_bbva{background-color: #fff;background-image: url("../../../img/interior/valle-hermoso/bbva.jpg");background-repeat: no-repeat;background-position: center;border-radius: 4px;cursor: pointer;height: 42px;margin: 0 auto;margin-top: 21px;width: 65%;}
+.ubicanos_formulario .block_3 .img_bbva{background-color: #fff;background-image: url("../../../img/interior/util/bbva.jpg");background-repeat: no-repeat;background-position: center;border-radius: 4px;cursor: pointer;height: 42px;margin: 0 auto;margin-top: 21px;width: 65%;}
 
 .contact_proyectos{background-color: rgba(0,0,0,.7);margin-top: 160px;padding: 20px 25px 30px 25px;}
 .contact_proyectos h3{text-align: left;color: #F0720B;}
@@ -114,4 +114,7 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 #pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_6{background-image: url("../../../img/interior/pueblo-libre/cocina-pueblo-libre.png");}
 
 #pueblo_libre .galeria_proyectos .galeria_fotos article:hover .mask{border: 131px solid rgba(249,249,248,.8); }
-#pueblo_libre .galeria_proyectos .galeria_fotos .mask{left: 52px;width: 285px;}
+#pueblo_libre .galeria_proyectos .galeria_fotos .mask{left: 52px;height: 262px;width: 285px;}
+
+#pueblo_libre .ubicanos_proyectos{background-image: url("../../../img/interior/pueblo-libre/pueblo_libre_2.png");}
+#pueblo_libre .mapa_proyectos{background-image: url("../../../img/interior/pueblo-libre/google-map-pueblo-libre.png");}
