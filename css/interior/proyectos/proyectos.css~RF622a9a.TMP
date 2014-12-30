@@ -73,7 +73,7 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 #valle_hermoso .departamentos_proyectos .departamentos_det_aca article.carac_7{background-image: url("../../../img/interior/valle-hermoso/caract_07.png");}
 #valle_hermoso .departamentos_proyectos .departamentos_det_aca article.carac_8{background-image: url("../../../img/interior/valle-hermoso/caract_08.png");}
 
-.galeria_proyectos .galeria_fotos h2{background-image: url("../../../img/interior/valle-hermoso/line_2.jpg");color: #19a4ec}
+#valle_hermoso .galeria_proyectos .galeria_fotos h2{background-image: url("../../../img/interior/valle-hermoso/line_2.jpg");color: #19a4ec}
 #valle_hermoso .galeria_proyectos .galeria_fotos .item_galeria{background-position: center;background-repeat: no-repeat;cursor: pointer;height: 212px;margin: 5px 0px;}
 #valle_hermoso .galeria_proyectos .galeria_fotos .img_galeria_1{background-image: url("../../../img/interior/valle-hermoso/banho-final.png");}
 #valle_hermoso .galeria_proyectos .galeria_fotos .img_galeria_2{background-image: url("../../../img/interior/valle-hermoso/cocina-final.png");}
@@ -95,7 +95,7 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 #pueblo_libre .pueblo_libre_portada .img_portada{background-image: url("../../../img/interior/pueblo-libre/pueblo-libre-portada.jpg");}
 #pueblo_libre .logo-pueblo-libre {background: url("../../../img/interior/pueblo-libre/pueblo-libre-avenir.png") no-repeat;float: left;height: 198px;position: absolute;left: 13%;width: 170px;top: 230px;}
 
-#pueblo_libre .departamentos_proyectos .departamentos_det_aca article{height: 187px;}
+#pueblo_libre .departamentos_proyectos .departamentos_det_aca article{height: 187px;padding: 20px 15px 10px 15px;}
 #pueblo_libre .departamentos_proyectos{background-image: url("../../../img/interior/pueblo-libre/pueblo_libre_1.png");}
 #pueblo_libre .departamentos_proyectos .departamentos_det_aca article.carac_1{background-image: url("../../../img/interior/pueblo-libre/caract_01.png");}
 #pueblo_libre .departamentos_proyectos .departamentos_det_aca article.carac_2{background-image: url("../../../img/interior/pueblo-libre/caract_02.png");}
@@ -104,14 +104,3 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 #pueblo_libre .departamentos_proyectos .departamentos_det_aca article.carac_5{background-image: url("../../../img/interior/pueblo-libre/caract_05.png");}
 #pueblo_libre .departamentos_proyectos .departamentos_det_aca article.carac_6{background-image: url("../../../img/interior/pueblo-libre/caract_06.png");}
 #pueblo_libre .departamentos_proyectos .departamentos_det_aca article.carac_7{background-image: url("../../../img/interior/pueblo-libre/caract_07.png");}
-
-#pueblo_libre .galeria_proyectos .galeria_fotos .item_galeria{background-position: center;background-repeat: no-repeat;cursor: pointer;height: 288px;margin: 5px 0px;}
-#pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_1{background-image: url("../../../img/interior/pueblo-libre/sala-comedor-pueblo-libre.png");}
-#pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_2{background-image: url("../../../img/interior/pueblo-libre/lobby-pueblo-libre.png");}
-#pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_3{background-image: url("../../../img/interior/pueblo-libre/dormitorio-pueblo-libre.png");}
-#pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_4{background-image: url("../../../img/interior/pueblo-libre/banho-principal-pueblo-libre.png");}
-#pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_5{background-image: url("../../../img/interior/pueblo-libre/banho-visita-pueblo-libre.png");}
-#pueblo_libre .galeria_proyectos .galeria_fotos .img_galeria_6{background-image: url("../../../img/interior/pueblo-libre/cocina-pueblo-libre.png");}
-
-#pueblo_libre .galeria_proyectos .galeria_fotos article:hover .mask{border: 131px solid rgba(249,249,248,.8); }
-#pueblo_libre .galeria_proyectos .galeria_fotos .mask{left: 52px;width: 285px;}
