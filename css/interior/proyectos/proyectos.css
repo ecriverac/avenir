@@ -1,5 +1,5 @@
 #valle_hermoso .valle_hermoso_portada .img_portada{background-image: url("../../../img/interior/valle-hermoso/valle-hermoso-avenir.jpg");}
-#valle_hermoso .valle_hermoso_portada h1{font-size: 2.5em;margin-top: 0px;}
+#valle_hermoso .valle_hermoso_portada h1,#pueblo_libre .pueblo_libre_portada h1{font-size: 2.5em;margin-top: 0px;}
 
 .content_proyectos {position: relative;z-index: 10;background-color: #fff;}
 .caracteristica_proyectos .caract{border:1px solid #7fd0f8;color: #4095c2;margin: 0 auto;text-align: center;width: 142px;}
@@ -61,6 +61,7 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 .contact_proyectos textarea {max-height: 114px;max-width: 330px;}
 .contact_proyectos .send_proyectos{background-color: #F0720B;color: #fff;border:0;border-radius: 0px;width: 100%;}
 
+#valle_hermoso .logo-valle-hermoso{background: url("../../../img/interior/valle-hermoso/logo-valle-hermoso.jpg") no-repeat;float: left;height: 198px;position: absolute;left: 13%;width: 170px;top: 230px;}
 
 #valle_hermoso .departamentos_proyectos{background-image: url("../../../img/interior/valle-hermoso/vallle_hermoso_1.png");}
 #valle_hermoso .departamentos_proyectos .departamentos_det_aca article.carac_1{background-image: url("../../../img/interior/valle-hermoso/caract_01.png");}
@@ -86,3 +87,9 @@ transition: transform 0.2s 0.1s ease-in, opacity 0.1s ease-in-out;}
 #valle_hermoso .ubicanos_proyectos{background-image: url("../../../img/interior/valle-hermoso/valle_hermoso_2.png");}
 
 #valle_hermoso .mapa_proyectos{background-image: url("../../../img/interior/valle-hermoso/google-map-avenir.png");}
+
+
+/*----------------------------*/
+/*-------PUEBLO LIBRE---------*/
+/*----------------------------*/
+#pueblo_libre .pueblo_libre_portada .img_portada{}

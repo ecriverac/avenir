@@ -18,6 +18,10 @@ avenirApp.config(['$routeProvider',
         templateUrl: 'views/valle-hermoso.html',
         controller: 'ValleHermosoCtrl'
       }).
+      when('/proyectos/pueblo-libre/', {
+        templateUrl: 'views/pueblo-libre.html',
+        controller: 'PuebloLibreCtrl'
+      }).
       when('/contactenos/', {
         templateUrl: 'views/contactenos.html',
         controller: 'ContactenosCtrl'

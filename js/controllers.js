@@ -23,6 +23,11 @@ avenirControllers.controller('ValleHermosoCtrl',['$scope', '$http',
     console.log("Valle Hermoso");
   }]);
 
+avenirControllers.controller('PuebloLibreCtrl',['$scope', '$http',
+  function ($scope, $http) {
+    console.log("Pueblo Libre");
+  }]);
+
 avenirControllers.controller('ContactenosCtrl',['$scope', '$http',
   function ($scope, $http) {
     console.log("Contactenos");

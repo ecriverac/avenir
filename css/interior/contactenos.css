@@ -1,6 +1,6 @@
-#quienes_somos .quienes_portada .contacto{background-image: url("../../img/interior/contactenos/contactenos.jpg");}
+#contacto .contacto_portada .contacto{background-image: url("../../img/interior/contactenos/contactenos.jpg");}
 .fondo-contact{background-image: url("../../img/interior/contactenos/fondo-contact.png");}
-.contact-2{background-image: url("../../img/interior/contactenos/fondo-contact2.png");width: 100%;height: 45px;position: absolute;}
+.contact-2{background-image: url("../../img/interior/contactenos/fondo-contact2.png");width: 100%;height: 15px;position: absolute;}
 .div-2{color:#e38a26;}
 .div-text{background-color: #e38a26;}
 .fondo-contact{color: #a8a8a8;}
