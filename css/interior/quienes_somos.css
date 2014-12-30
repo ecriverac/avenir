@@ -1,9 +1,9 @@
-#quienes_somos .quienes_portada .img_portada{background-image: url("../../img/interior/quienes-somos/quienes-somos-avenir.jpg");background-repeat: no-repeat;background-position: center;background-size: cover;height: 400px;width: 100%;}
-#quienes_somos .quienes_portada .container{color: #fff;position: relative;top: -515px;}
+#quienes_somos .quienes_portada .img_portada{background-image: url("../../img/interior/quienes-somos/quienes-somos-avenir.jpg");}
+/*#quienes_somos .quienes_portada .container{color: #fff;position: relative;top: -515px;}
 #quienes_somos .quienes_portada h1{font-family: open_sansbold;font-size: 3em;margin: 0px 0px;margin-top: 255px;text-align: center;}
-#quienes_somos .quienes_portada .img_content_title{background-image: url("../../img/interior/util/rectangulo_titulo.png");background-repeat: no-repeat;background-position: center;background-size: cover;height: 592px;position: absolute;right: 15px;width: 592px;}
+#quienes_somos .quienes_portada .img_content_title{background-image: url("../../img/interior/util/rectangulo_titulo.png");background-repeat: no-repeat;background-position: center;background-size: cover;height: 592px;position: absolute;right: 15px;width: 592px;}*/
 
-#quienes_somos .quienes_text{position: relative;z-index: 2;}
+#quienes_somos .quienes_text{position: relative;z-index: 2;background-color: #fff;}
 #quienes_somos .quienes_text p{color: #6d6d6d;font-family: open_sanslight;font-size: 17px;line-height: 28px;margin: 6% auto 3% auto;text-align: center;width: 815px;}
 #quienes_somos .quienes_text p .sp_1{color: #1E96B9;}
 #quienes_somos .quienes_text p .sp_2,#quienes_somos .quienes_text p .sp_3{color: #fb5008}
@@ -54,7 +54,7 @@
 }
 
 @media (max-width: 640px){
-	#quienes_somos .quienes_portada .img_content_title{right: 0px;width: 100%;}
+	/*#quienes_somos .quienes_portada .img_content_title{right: 0px;width: 100%;}*/
 }
 
 @media (max-width: 1024px){
