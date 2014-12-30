@@ -62,7 +62,8 @@
 	.cont-project {
 	width: auto;
 	margin-right: 3px;
-}
+	}
+	.fondo-contact2{background-image: url("../img/interior/contactenos/fondo-contact2.png")!important;}
 	
 }
 
@@ -92,7 +93,7 @@
 	height: auto;
 	border-right: 8px solid #fff;
 	margin-top: -232px;
-}
+	}
 	.des-rol {
 	margin: 10px 0;
 	color: #807E7E;
@@ -121,12 +122,10 @@
 	.cont-prot {
 		margin-top: 250px;
 	}
-	.cont-contact {
-	/* margin-top: -232px; */
-}
 	.cont-project {
 	width: 101%;
-}
+	}
+	.fondo-contact2{background-image: url("../img/interior/contactenos/fondo-contact.png") !important;}
 
 }
 @media (min-width: 992px){
